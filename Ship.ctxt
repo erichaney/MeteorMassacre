@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ship
+comment1.params=x\ y
+comment1.target=Ship(double,\ double)
+comment2.params=horizontal\ vertical
+comment2.target=void\ accelerate(double,\ double)
+comment3.params=
+comment3.target=void\ shoot()
+numComments=4

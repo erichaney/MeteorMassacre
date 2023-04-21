@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Entity
+comment1.params=x\ y\ width\ height
+comment1.target=Entity(double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=void\ move()
+comment3.params=start1\ end1\ start2\ end2
+comment3.target=boolean\ intervalOverlap(double,\ double,\ double,\ double)
+comment4.params=other
+comment4.target=boolean\ collidesWith(Entity)
+numComments=5

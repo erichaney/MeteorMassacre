@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MeteorMassacreApp
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=e
+comment2.target=void\ handleKeyPress(javafx.scene.input.KeyEvent)
+comment3.params=e
+comment3.target=void\ handleKeyRelease(javafx.scene.input.KeyEvent)
+comment4.params=
+comment4.target=void\ drawLasers()
+comment5.params=
+comment5.target=void\ drawShip()
+comment6.params=
+comment6.target=void\ drawMeteors()
+comment7.params=
+comment7.target=void\ drawGameOver()
+comment8.params=
+comment8.target=void\ drawInfo()
+comment9.params=
+comment9.target=void\ drawGame()
+numComments=10

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Meteor
+comment1.params=x\ y\ velocityMultiplier
+comment1.target=Meteor(double,\ double,\ double)
+numComments=2
